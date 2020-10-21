@@ -26,13 +26,3 @@ Connect community users into the team to create periodical edition and share it 
 > Filtering, searching ... 2 lists: general rating and with those who are looking.
 > Fill out the profile with your info, portfolio, if you have one and apply for a position :)
 
-## Using the service
-> You register, set preferences in magazines or newspapers,
-> the system determines the main interests that need to be added,
-> confirmed or removed, and then - the definition of the desired role, 
-> and the time you are willing to devote a week to this role.
-> Possible contacts from the mail synced in, connect or skip, then
-> You get a list of editions that you are most suitable for you they are looking for a person for this role. 
-> Filtering, searching ... 2 lists: general rating and with those who are looking.
-> Fill out the profile with your info, portfolio, if you have one and apply for a position :)
-
